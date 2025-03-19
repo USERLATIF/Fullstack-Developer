@@ -1,3 +1,4 @@
 1. git
 2. figma
 3. laravel
+4. sql
